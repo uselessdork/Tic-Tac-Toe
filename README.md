@@ -23,5 +23,5 @@ Play against a friend on the same device and enjoy this classic game in your bro
 ## 📂 Project Setup  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/uselessdork/Tic-Tac-Toe
+   git clone https:/github.com/uselessdork/Tic-Tac-Toe
    
